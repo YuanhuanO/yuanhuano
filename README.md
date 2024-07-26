@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanhuan Deng</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuanhuano&label=Profile%20views&color=0e75b6&style=flat" alt="yuanhuano" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuanhuano" alt="yuanhuano" /></a> </p>
-
 - 📫 How to reach me **yuanhuandeng@brandeis.edu**
 
 <h3 align="left">Connect with me:</h3>
