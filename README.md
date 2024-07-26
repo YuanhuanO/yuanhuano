@@ -1,6 +1,6 @@
 Hi 👋, I'm Yuanhuan Deng
 
-- 🪪 MS in Computer Science[Brandeis University](https://www.brandeis.edu/), 2022 - 2024
+- 🪪 MS in Computer Science [Brandeis University](https://www.brandeis.edu/), 2022 - 2024
 - 🎓 BS in Social Science [Sun Yat-sen University](https://www.sysu.edu.cn/), 2018 - 2022
 - 📫 Email me at yuanhuandeng@brandeis.edu
 
