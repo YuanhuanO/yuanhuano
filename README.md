@@ -11,7 +11,6 @@ Hi 👋, I'm Yuanhuan Deng
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuanhuano&count_private=true&show_icons=true&line_height=30&theme=graywhite&include_all_commits=true&hide=issues,contribs&border_radius=20&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanhuano&layout=compact&line_height=20&theme=graywhite&border_radius=20" />
 <p align = "center">
   <br />
