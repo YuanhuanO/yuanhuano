@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuanhuan Deng</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuanhuano&label=Profile%20views&color=0e75b6&style=flat" alt="yuanhuano" /> </p>
-- 🪪 **MS Student** at [Brandeis University](https://www.brandeis.edu/),
-- 🎓  [Sun Yat-sen University](https://www.sysu.edu.cn/)
+- 🪪 MS [Brandeis University](https://www.brandeis.edu/),
+- 🎓 BS [Sun Yat-sen University](https://www.sysu.edu.cn/)
 - 📫 How to reach me **yuanhuandeng@brandeis.edu**
 
 <h3 align="left">Connect with me:</h3>
