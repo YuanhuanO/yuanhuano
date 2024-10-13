@@ -1,5 +1,5 @@
 Hi 👋, I'm Yuanhuan Deng
-
+I am interested in Scientific Visualization and Human-Computer Interaction
 - 🪪 MS in Computer Science [Brandeis University](https://www.brandeis.edu/), 2022 - 2024
 - 🎓 BS in Social Science [Sun Yat-sen University](https://www.sysu.edu.cn/), 2018 - 2022
 - 👤 Personal Website: https://yuanhuano.github.io/oliviad.github.io/
